@@ -19,7 +19,7 @@ or run `./code/runall.sh`
 
 ## Summary of experimental results
 
-|   Model   | Accuracy(%) | F1(%) | Pearson | Time |                            参数                            |
+|   Model   | Accuracy(%) | F1(%) | Pearson | Time |                            Parameter configuration                            |
 | :------: | :---------: | :---------: | :--: | :--------------: | :--------------------------------------------------------: |
 |   MLP   |    53.2     |    21.5     | 0.50 |      4m13s       |     [config/mlp_with-non-static-w2v.json](./config/mlp_with-non-static-w2v.json)     |
 |   CNN   |    63.1     |    31.2     | 0.63 |      9m13s       |     [config/cnn_with-static-w2v.json](./config/cnn_with-static-w2v.json)      |
