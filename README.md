@@ -1,4 +1,4 @@
-# Sentiment Classification based on Sina News (Final project of NLP2020)
+# Sentiment Classification based on Simplified Chinese News Text (Final project of NLP2020)
 
 ## Environment:
 * python >= 3.6
